@@ -1,8 +1,6 @@
-# git
+# Git
 Commands and tips about git
 
-# HELP Git
- 
 [Git](https://git-scm.com/)
  
 [GitHub](https://github.com/)
