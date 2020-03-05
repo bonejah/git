@@ -19,6 +19,9 @@ git config --global core.editor emacs/vim/vi
  
 * View configurations:
 git config --list
+
+* Open VSCode to edit configuration in your Git
+git config --global -e
  
 * Init repository:
 git init
